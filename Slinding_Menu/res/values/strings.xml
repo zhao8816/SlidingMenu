@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slinding_Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array 
+        name="list_demo">
+        <item >条目1</item>
+        <item >条目2</item>
+        <item >条目3</item>
+        <item >条目4</item>
+        <item >条目5</item>
+        <item >条目6</item>
+        <item >条目7</item>
+    </string-array>
+</resources>
